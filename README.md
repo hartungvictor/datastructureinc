@@ -1,0 +1,3 @@
+# datastructureinc
+
+Educational purpose only.
